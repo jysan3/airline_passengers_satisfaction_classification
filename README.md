@@ -1,4 +1,4 @@
-# airline_classification
+# Airline Passengers Satisfaction Classification
 
 Tools : R, readr, tidyverse, corrplot, ggplot2, dplyr, gridExtra
 
